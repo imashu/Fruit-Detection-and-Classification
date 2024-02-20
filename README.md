@@ -3,7 +3,7 @@ The system will be designed to be a cyber-physical system, where physical sensor
 
 # Expected Deliverables
 
-1. application that can capture images of the fruits on the trees.
+1. Application that can capture images of the fruits on the trees.
 This application will detect fruits from the image captured and can tell whether the fruit is fresh
 or rotten. It will act as an interface for a Farmer to check the Quality of Fruits on his farm.
 
